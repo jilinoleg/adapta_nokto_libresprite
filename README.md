@@ -1,5 +1,5 @@
-# than
-*A Dark Theme for LibreSprite based in than theme Made by @tungkradle for Asesprite*
+# Adapta Nokto
+*Dark theme forked from maujin111's "than dark theme" for libresprite (see https://github.com/maujin111/than_dark_theme_libresprite) and made to fit color pallete from Adapta Nokto Gtk+ Theme for Linux (https://github.com/adapta-project/adapta-gtk-theme)*
 
 
 ## Installation
